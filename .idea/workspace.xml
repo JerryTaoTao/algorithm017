@@ -23,9 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="685d7ddd-4a72-4d63-a363-253f5fb39717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_07/FriendCircles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/ImplementTriePrefixTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_07/WordLadder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
